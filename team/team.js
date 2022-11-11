@@ -4,6 +4,7 @@ var problem = [
     [1,0,0]
 ]
 var n = 3
+
 var ans = 0
 for(let i = 0 ; i<n ; i++){
     var count = 0;
